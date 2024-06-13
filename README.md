@@ -25,10 +25,10 @@
 2.运行流程
 
 前端初始化指令：
-npm install
+> npm install
 
 前端运行指令：
-npm run serve
+> npm run serve
 
 详情可以查看这篇csdn博客：http://t.csdnimg.cn/kpuxS
 
@@ -57,7 +57,8 @@ npm run serve
 
 + 管理员页面
 
-![Uploading image.png…]()
+![image](https://github.com/luocong-shuaige/college-student-friendship/assets/85004172/bbe928d1-b3fe-4cf4-9332-0b03b38f958e)
+
 
 
 #### 参与贡献
