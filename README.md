@@ -13,8 +13,6 @@
 
 2. 配置maven路径，加载依赖
 
-   ![image-20240612205748599](file://E:\文件\论文\社团管理\ClubManagement\image-20240612205748599.png?lastModify=1718199439)
-
 3. 运行sql文件，确保application.yml的数据库名称和账号密码是数据库所在主机的账号密码
 
 #### 使用说明
