@@ -22,31 +22,43 @@
    账号：admin	密码：123456
    账号：zlw	密码：123456
 
-2. xxxx
+2.运行流程
 
-3. xxxx
+前端初始化指令：
+npm install
+
+前端运行指令：
+npm run serve
+
+详情可以查看这篇csdn博客：http://t.csdnimg.cn/kpuxS
 
 #### 项目演示
 
 + 首页页面
 
-![image-20240612213947006](image-20240612213947006.png)
+![image](https://github.com/luocong-shuaige/college-student-friendship/assets/85004172/0186693a-28fa-4ca6-8fde-3c0ad53989dd)
+
 
 + 聊天室页面
 
-![image-20240612213956377](image-20240612213956377.png)
+![image](https://github.com/luocong-shuaige/college-student-friendship/assets/85004172/0e047aea-7235-4dfe-9eff-e6a3f9f9e39b)
+
 
 + 积分商城页面
 
-![image-20240612214018446](image-20240612214018446.png)
+![image](https://github.com/luocong-shuaige/college-student-friendship/assets/85004172/6c484d10-2b63-4e33-82da-bda455e061f8)
+
+
 
 + 积分订单
 
-![image-20240612214032177](image-20240612214032177.png)
+![image](https://github.com/luocong-shuaige/college-student-friendship/assets/85004172/47f5e63d-d277-48e6-82b0-b8208e80acb2)
+
 
 + 管理员页面
 
-![image-20240612215123101](image-20240612215123101.png)
+![Uploading image.png…]()
+
 
 #### 参与贡献
 
