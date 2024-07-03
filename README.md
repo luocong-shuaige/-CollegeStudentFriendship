@@ -13,7 +13,7 @@
 
 #### 安装教程
 
-1. 运行环境准备mysql8+jdk1.8+npm16.9.1+redis3
+1. 运行环境准备mysql8+jdk1.8+node16.9.1+redis3
 
 2. 配置maven路径，加载依赖
 
